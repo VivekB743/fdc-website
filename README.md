@@ -1,0 +1,1 @@
+Creating a website for the FDC weekly updates as a way to practice full-stack web development.
