@@ -12,7 +12,7 @@ body {
     align-items: center;
     background-color: #1f2937;
     color: #f9faf8;
-    padding: 8px;
+    padding: 16px;
 }
 
 ul {
@@ -21,6 +21,8 @@ ul {
     flex: 1;
     gap: 16px;
     list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 a {
@@ -34,4 +36,72 @@ a {
     justify-content: space-evenly;
     background-color: #1f2937;
     color: #f9faf8;
+    padding: 48px;
+    gap: 8px;
 }
+
+h1 .hero {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+p .hero {
+    display: flex;
+    width: 300px;
+    flex: 1;
+    flex-wrap: wrap;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px;
+    border-radius: 12px;
+    font-weight: 700;
+}
+
+.featured {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    flex: 1;
+    margin-bottom: 32px;
+}
+
+.title {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 32px;
+}
+
+.featured-page {
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    color: #1f2937;
+}
+
+.bottom-third {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #1f2937;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100px;
+    font-style: italic;
+}
+
+
