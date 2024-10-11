@@ -5,3 +5,4 @@ far left featured team image credit: crazy motions via Pexels
 left featured team image credit: kreatikar via Pixabay
 right featured team image credit: u_fg0tkeqgiy via Pixabay
 far right featured team image credit: OpenClipart-Vectors via Pixabay
+FDC Logo created via Google Gemini
